@@ -143,14 +143,6 @@ Created a healthcare system concept for tracking patient data, supporting health
 
 ---
 
-## Links
-
-- Devpost: [devpost.com/ssrid111](https://devpost.com/ssrid111?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- LinkedIn: [linkedin.com/in/swetha-sridharan28](https://www.linkedin.com/in/swetha-sridharan28)
-- GitHub: [github.com/ssrid111](https://github.com/ssrid111)
-
----
-
 <div align="center">
 
 ### Building practical software with AI, data, and real-world impact.
