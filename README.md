@@ -135,15 +135,11 @@ Created a healthcare system concept for tracking patient data, supporting health
 
 ---
 
-## GitHub Stats
+## 📌 Current Focus
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ssrid111&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssrid111&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- Building full-stack and AI-driven applications  
+- Exploring data analytics and scalable systems  
+- Actively participating in hackathons and product development  
 
 ---
 
