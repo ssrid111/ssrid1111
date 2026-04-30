@@ -1,17 +1,3 @@
-Perfect — I went through your resumes and you actually have way stronger content than what your current GitHub shows. Right now your profile undersells you. We’re fixing that.
-
-I’ve upgraded your README to include:
-
-* ✅ GlobeWIAL (winner)
-* ✅ HERa + SIH leadership
-* ✅ Your research/patents signal
-* ✅ Devpost link (important for hackathons)
-* ✅ Stronger positioning for internships
-
-⸻
-
-🚀 FINAL ELITE README (copy this)
-
 # 👋 Hi, I'm Swetha
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7A41D&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Builder;Full+Stack+Developer;Hackathon+Winner)
 🎓 MS Software Engineering @ Arizona State University  
