@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 👋 Hi, I'm Swetha Sridharan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineering+Graduate+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Data+Analytics+Builder;Hackathon+Participant+%26+Team+Lead" alt="Typing SVG" />
